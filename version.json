@@ -1,5 +1,7 @@
 {
   "versionCode": 2,
+  "versionName": "1.1",
+  "description": "We've added new features and fixed bugs to improve your experience.",
+  "changelog": "• Added 500+ new Limbu words\n• Faster search algorithm\n• New dark mode support",
   "downloadUrl": "https://ingsha09.github.io/Limbu-Dictionary-App/"
 }
-
