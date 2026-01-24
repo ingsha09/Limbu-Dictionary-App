@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "description": "We've added new features and fixed bugs to improve your experience.",
-  "changelog": "• Added 500+ new Limbu words\n• Faster search algorithm\n• New dark mode support",
+  "versionCode": 2,
+  "versionName": "1.1",
+  "description": "A major visual and technical overhaul for a smoother, more reliable experience.",
+  "changelog": "• Complete UI Redesign: Modern cards, floating search, and smoother layouts.\n• New Advanced Debug Screen: Catch and report errors instantly.\n• Improved Update System: Never miss a version with our new update dialog.\n• Enhanced Bottom Menu: Quick access to About, Favorites, and Scripts.\n• Performance optimizations and minor bug fixes.",
   "downloadUrl": "https://ingsha09.github.io/Limbu-Dictionary-App/"
 }
