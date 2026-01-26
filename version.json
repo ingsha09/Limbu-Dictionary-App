@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
-  "description": "A major visual and technical overhaul for a smoother, more reliable experience.",
-  "changelog": "• Complete UI Redesign: Modern cards, floating search, and smoother layouts.\n• New Advanced Debug Screen: Catch and report errors instantly.\n• Improved Update System: Never miss a version with our new update dialog.\n• Enhanced Bottom Menu: Quick access to About, Favorites, and Scripts.\n• Performance optimizations and minor bug fixes.",
+  "versionCode": 3,
+  "versionName": "1.2",
+  "description": "User experience refinement and tactile feedback integration.",
+  "changelog": "• New Haptic Feedback: Added a master toggle for tactile button responses.\n• UI/UX Enhancements: Replaced system toasts with modern Snackbars and updated button iconography.\n• Improved Navigation: Implemented 'Double Back to Exit' to prevent accidental closures.\n• Feature Update: Moved 'Daily Word' to a clean dialog for better focus.\n• Privacy & Security: Integrated Privacy Policy within the About page.\n• Stability: Fixed search indicator bugs and optimized list filtering.",
   "downloadUrl": "https://ingsha09.github.io/Limbu-Dictionary-App/"
 }
