@@ -1,7 +1,8 @@
 {
   "versionCode": 3,
   "versionName": "1.2",
-  "description": "User experience refinement and tactile feedback integration.",
-  "changelog": "• New Haptic Feedback: Added a master toggle for tactile button responses.\n• UI/UX Enhancements: Replaced system toasts with modern Snackbars and updated button iconography.\n• Improved Navigation: Implemented 'Double Back to Exit' to prevent accidental closures.\n• Feature Update: Moved 'Daily Word' to a clean dialog for better focus.\n• Privacy & Security: Integrated Privacy Policy within the About page.\n• Stability: Fixed search indicator bugs and optimized list filtering.",
+  "description": "Tactile feedback, gesture navigation, and UI refinements.",
+  "changelog": "• New Gesture Navigation: Swipe left/right on the list to quickly filter by Limbu alphabet.\n• Tactile Feedback: Added a master Haptic Feedback toggle for a more physical feel.\n• UI/UX Overhaul: Replaced system toasts with modern Snackbars and updated button iconography.\n• Improved Flow: Moved 'Daily Word' to an elegant dialog and added 'Double Back to Exit'.\n• Privacy & Security: Integrated Privacy Policy within the About page.\n• Bug Fixes: Resolved search indicator glitches and optimized list performance.",
   "downloadUrl": "https://ingsha09.github.io/Limbu-Dictionary-App/"
 }
+
